@@ -44,3 +44,5 @@ VOLUME [ "/data" ]
 
 ENTRYPOINT [ "/docker-entrypoint.sh" ]
 CMD [ "/app/cqhttp" ]
+
+\\NICE
